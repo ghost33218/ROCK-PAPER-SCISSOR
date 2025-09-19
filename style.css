@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+main{
+    margin-top : 50px ; 
+    margin-left :30px ; 
+}
+button {
+    background-color: black ;
+    margin-left : 20px ; 
+     width : 300px ; 
+    height : 300px ; 
+    border-radius: 50% ;
+    border-color : white ; 
+    border-style: solid ;
+    border-width: 1px ;
+} 
+img { 
+    border-color : black ; 
+    width : 200px ; 
+    height : 200px ; 
+  
+    object-position: center ;
+    object-fit: cover ;
+
+
+}
+p{
+    color : white ; 
+    margin-top : 20px ; 
+    font-size: 20px ;
+}
+.js-elementimage { 
+    width : 80px ; 
+    height : 80px ; 
+   
+    ;
+}
+.js-paraelement {
+     font-size : 50px ; 
+     font-weight: bold ;
+}
+.heading{
+    color : white ;
+     font-family: "Bitcount Grid Double" ; 
+}
+.js-buttonresetscore { 
+       height : 80px ; 
+       width : 150px ; 
+       border-radius: 0px ;
+       color : white ; 
+       font-family :"Bitcount Grid Double";
+       font-size : 30px ; 
+       margin-top : 10px ;
+
+
+}
+pre { 
+    font-family : "Bitcount Grid Double" ; 
+    font-size : 25px ; 
+    
+} 
